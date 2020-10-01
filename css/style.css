@@ -46,6 +46,15 @@ p {
     width: 25%;
     background: rgba(247, 247, 247, 0.4);
 }
+.bl-info:hover {
+    background: rgba(14, 200, 203, 0.68);
+}
+.bl-info:hover p{
+    color: white;
+}
+.bl-info:hover svg{
+    fill: #ffffff;
+}
 .main-block {
     display: flex;
     justify-content: space-between;
@@ -53,9 +62,7 @@ p {
 svg {
     fill: #000000;
 }
-svg:hover {
-    fill: #ffffff;
-}
+ 
 .title-text {
     text-align: center;
     padding-top: 57px;
