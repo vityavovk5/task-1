@@ -44,7 +44,7 @@ p {
 .bl-info {
     padding: 55px 0 93px;
     width: 25%;
-    background: rgba(247, 247, 247, 0.4);
+    background: rgba(247, 247, 247, 0.3);
 }
 .bl-info:hover {
     background: rgba(14, 200, 203, 0.68);
